@@ -2,7 +2,7 @@
 # Login Application
 ### Hi, I'm Sayan Mondal! 👋
 ## About This Application 
-![Logo](https://freepikpsd.com/media/2019/10/login-png-icon-1.png)
+![Logo](https://www.pngitem.com/pimgs/m/273-2738719_user-login-icon-png-transparent-background-login-icon.png)
 
     
 
